@@ -1,0 +1,22 @@
+C:\Users\Sandamal\Desktop\Inclass Test\Inclass Test\bin\Debug\Inclass Test.exe.config
+C:\Users\Sandamal\Desktop\Inclass Test\Inclass Test\bin\Debug\Inclass Test.exe
+C:\Users\Sandamal\Desktop\Inclass Test\Inclass Test\bin\Debug\Inclass Test.pdb
+C:\Users\Sandamal\Desktop\Inclass Test\Inclass Test\obj\Debug\Inclass Test.csproj.AssemblyReference.cache
+C:\Users\Sandamal\Desktop\Inclass Test\Inclass Test\obj\Debug\Inclass Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sandamal\Desktop\Inclass Test\Inclass Test\obj\Debug\Inclass_Test.Form1.resources
+C:\Users\Sandamal\Desktop\Inclass Test\Inclass Test\obj\Debug\Inclass_Test.Properties.Resources.resources
+C:\Users\Sandamal\Desktop\Inclass Test\Inclass Test\obj\Debug\Inclass Test.csproj.GenerateResource.cache
+C:\Users\Sandamal\Desktop\Inclass Test\Inclass Test\obj\Debug\Inclass Test.csproj.CoreCompileInputs.cache
+C:\Users\Sandamal\Desktop\Inclass Test\Inclass Test\obj\Debug\Inclass Test.exe
+C:\Users\Sandamal\Desktop\Inclass Test\Inclass Test\obj\Debug\Inclass Test.pdb
+C:\Users\Hima\Desktop\WFA\(WFA) Rock Paper Scissor\24479 , 24032\Inclass Test\bin\Debug\Inclass Test.exe.config
+C:\Users\Hima\Desktop\WFA\(WFA) Rock Paper Scissor\24479 , 24032\Inclass Test\bin\Debug\Inclass Test.exe
+C:\Users\Hima\Desktop\WFA\(WFA) Rock Paper Scissor\24479 , 24032\Inclass Test\bin\Debug\Inclass Test.pdb
+C:\Users\Hima\Desktop\WFA\(WFA) Rock Paper Scissor\24479 , 24032\Inclass Test\obj\Debug\Inclass Test.csproj.AssemblyReference.cache
+C:\Users\Hima\Desktop\WFA\(WFA) Rock Paper Scissor\24479 , 24032\Inclass Test\obj\Debug\Inclass Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hima\Desktop\WFA\(WFA) Rock Paper Scissor\24479 , 24032\Inclass Test\obj\Debug\Inclass_Test.Form1.resources
+C:\Users\Hima\Desktop\WFA\(WFA) Rock Paper Scissor\24479 , 24032\Inclass Test\obj\Debug\Inclass_Test.Properties.Resources.resources
+C:\Users\Hima\Desktop\WFA\(WFA) Rock Paper Scissor\24479 , 24032\Inclass Test\obj\Debug\Inclass Test.csproj.GenerateResource.cache
+C:\Users\Hima\Desktop\WFA\(WFA) Rock Paper Scissor\24479 , 24032\Inclass Test\obj\Debug\Inclass Test.csproj.CoreCompileInputs.cache
+C:\Users\Hima\Desktop\WFA\(WFA) Rock Paper Scissor\24479 , 24032\Inclass Test\obj\Debug\Inclass Test.exe
+C:\Users\Hima\Desktop\WFA\(WFA) Rock Paper Scissor\24479 , 24032\Inclass Test\obj\Debug\Inclass Test.pdb
